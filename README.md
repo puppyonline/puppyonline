@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### My name is Alexx
 
-I'm a **presence**, **web**, and **java** developer.
+I'm a **presence**, **web**, **javascript**, **typescript**, and **java** developer.
 
 😄 Pronouns: I go by anything, but I prefer **they/them**.
 
