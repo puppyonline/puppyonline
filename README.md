@@ -1,4 +1,14 @@
 ### Hi there 👋
+## My name is Alexx
+
+I'm a **presence**, **web**, and **java** developer.
+
+😄 Pronouns: I go by anything, but I prefer **they/them**.
+
+🔭 I'm currently focused on developing Presences for [PreMiD](https://premid.app).
+🌱 I’m currently learning C#!
+
+📫 How to reach me: [Twitter](https://twitter.com/SnoweyFoxx), [Email](mailto:alex@foxboys.systems), and [Telegram](t.me/snoweyfoxx).
 
 <!--
 **feet/feet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
