@@ -1,5 +1,5 @@
-### Hi there 👋
-## My name is Alexx
+## Hi there 👋
+### My name is Alexx
 
 I'm a **presence**, **web**, and **java** developer.
 
