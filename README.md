@@ -9,7 +9,7 @@ I'm a **presence**, **web**, **javascript**, **typescript**, and **java** develo
 
 🌱 I’m currently learning C#!
 
-📫 How to reach me: [Twitter](https://twitter.com/SnoweyFoxx), [Email](mailto:alex@foxboys.systems), and [Telegram](t.me/snoweyfoxx).
+📫 How to reach me: [Twitter](https://twitter.com/SnoweyFoxx), [Email](mailto:alex@foxboys.systems), and [Telegram](https://t.me/snoweyfoxx).
 
 <!--
 **feet/feet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
