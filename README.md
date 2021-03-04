@@ -8,10 +8,8 @@
   I'm a presence, web, javascript, typescript, and java developer.
 </p>
 
-<center>[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)</center>
-
 <p align='center'>
-  
+  [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 </p>
 
 <p align='center'>
