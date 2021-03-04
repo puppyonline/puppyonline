@@ -8,7 +8,7 @@
   I'm a presence, web, javascript, typescript, and java developer.
 </p>
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
+<center>[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)</center>
 
 <p align='center'>
   
