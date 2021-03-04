@@ -9,6 +9,7 @@
 </p>
 
 <p align='center'>
+  <img src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg" />
 </p>
 
 <p align='center'>
