@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/amd-Ryzen%205%203600X-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd-Radeon%20RX%205500 XT-%23ED1C24.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-Geforce%20RTX%203060-%23ED1C24.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
  </p>
 
 <!-- <details align='center'>
