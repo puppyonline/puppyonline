@@ -5,7 +5,7 @@
 </h1>
 
 <p align='center'>
-  I'm a presence, web, javascript, typescript, and java developer.
+  I'm a web, javascript, typescript, and java developer.
 </p>
 
 <p align='center'>
