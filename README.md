@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-Geforce%20RTX%203060-%23ED1C24.svg?&style=for-the-badge&logo=nvidia&logoColor=white&color=green" />
  </p>
+ <p align='center'>
+ <img src="https://img.shields.io/badge/Apple-2022_M2_Macbook_Pro-blue?style=for-the-badge&logo=apple&logoColor=white" />
+ </p>
 
 <!-- <details align='center'>
   <summary>:zap: My workspace specs</summary>
