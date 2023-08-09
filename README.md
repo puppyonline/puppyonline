@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <img src="https://forthebadge.com/images/featured/featured-contains-cat-gifs.svg" />
+  <img src="https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/contains-cat-gifs.svg" />
 </p>
 
 <p align='center'>
