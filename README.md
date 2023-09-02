@@ -13,6 +13,7 @@
 </p>
 
 <p align='center'>
+  <a href="#"><img src="https://lastfm-profile-readme.vercel.app/api/SnoweyFoxx" width="350"></a>
   <a href="#"><img src="https://lastfm-recently-played.vercel.app/api?user=SnoweyFoxx&count=1" width="350"></a>
 </p>
 
