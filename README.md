@@ -9,11 +9,11 @@
 </p>
 
 <p align='center'>
-  <img src="https://raw.githubusercontent.com/BraveUX/for-the-badge/master/src/images/badges/contains-cat-gifs.svg" />
+  <img src="https://forthebadge.com/images/badges/contains-cat-gifs.svg" />
 </p>
 
 <p align='center'>
-  <a href="https://www.last.fm/user/SnoweyFoxx"><img src="https://lastfm-recently-played.vercel.app/api?user=SnoweyFoxx&count=1" width="350"></a>
+  <a href="https://www.last.fm/user/apuppyonline"><img src="https://lastfm-recently-played.vercel.app/api?user=apuppyonline&count=1" width="350"></a>
 </p>
 
 <p align='center'>
